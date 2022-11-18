@@ -9,7 +9,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-flags": "^0.1.18",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start:js": "react-scripts start",
